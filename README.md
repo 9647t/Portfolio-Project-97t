@@ -1,8 +1,9 @@
 # Puzzle game
 **Diagram:**
 # ![Diagram](https://github.com/9647t/Portfolio-Project-97t/blob/main/src/Untitled%20Diagram.drawio.png?raw=true)
-** update **
-i forgot wall class so here's this:
+**Update**
+new wall class
+float x,y color col, void display, bool colide(playerx,y)
 
 
 
