@@ -4,7 +4,8 @@
 **Update:**
 new wall class
 float x,y color col, void display, bool colide(playerx,y)
-
+new object class
+float x,y color col, void display, bool colide(playerx,y)
 
 
 ## Update log
