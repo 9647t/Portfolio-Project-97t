@@ -1,9 +1,9 @@
 # Puzzle game
 **Diagram:**
 # ![Diagram](https://github.com/9647t/Portfolio-Project-97t/blob/main/src/pwgame.drawio.drawio.png?raw=true?raw=true)
-**Update:**
-nothing
 
+## Mockup
+* nothing yet
 
 ## Update log
 * Created repo 4/2
