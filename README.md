@@ -8,4 +8,5 @@
 ## Update log
 * Created repo 4/2
 * Added all nessary classes 4/14
-* Started creating actual gameplay 4/23 (80%) still buggy
+* Started creating actual gameplay 4/23
+* Finished project 4/30
